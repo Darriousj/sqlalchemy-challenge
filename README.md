@@ -2,4 +2,4 @@ Climate Analysis and Exploration using SQLALchemy ORM queries, Pandas, and Matpl
 
 Competencies:
 
-Python, SQl, Descripitive Statistics, and Visualization 
+Python, SQL, Descripitive Statistics, and Visualization 
